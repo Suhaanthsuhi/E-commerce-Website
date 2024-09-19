@@ -25,7 +25,3 @@ The project involves developing a full-fledged e-commerce website using the MERN
   - Move products to wishlist
   - Increase/decrease quantities
 - Successfully integrated a secure payment gateway, enabling transactions through PayPal, Google Pay, and credit/debit cards using Braintree.
-
-## Video Demo
-
-Watch the demo video [here](https://github.com/Suhaanthsuhi/E-commerce-Website/blob/main/Website_Demo.mp4).
